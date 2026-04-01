@@ -1,2 +1,2 @@
-# ke-funrobo-hw2
-Code submission for Fundamentals of Robotics individual HW2
+FunRobo Mini-Projects 1 & 2
+This repository contains the implementations for the Fundamentals of Robotics Mini-Projects 1 and 2. It covers Forward Kinematics (FK), Resolved-Rate Motion Control (RRMC), Inverse Kinematics (IK), and motion planning for the Kinova (6-DOF) and Hiwonder (5-DOF) robot arms.
