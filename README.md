@@ -10,4 +10,6 @@ Implements classes for quintic polynomial and trapezoidal trajectory generation 
 
 Implements trajectory generation methods in the visualizer tool using the classes from ```traj_gen.py```. Retains FK and IK functionality from MP1 and MP2 implementations.
 
-These files are drop-in replacements for the identically named files in the path-planning branch of the [funrobo_kinematics repository](https://github.com/OlinCollege-FunRobo/funrobo_kinematics/tree/path-planning) repository.
+---
+
+These files are drop-in replacements for the identically named files in the path-planning branch of the [funrobo_kinematics repository](https://github.com/OlinCollege-FunRobo/funrobo_kinematics/tree/path-planning).
