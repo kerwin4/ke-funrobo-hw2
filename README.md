@@ -1,10 +1,10 @@
 # FunRobo Individual HW2
 
-This repository contains the implementations for the Fundamentals of Robotics Individual Homework 2. The files cover quintic polynomial and trapezoidal trajectory generation methods for a robotic platform of unspecified DoF, as well as a visualization of the trajectory methods used on a Hiwonder 5-DoF platform.
+This repository contains the implementations for the Fundamentals of Robotics Individual Homework 2. The files cover quintic polynomial and trapezoidal trajectory generation methods for a robotic platform of any DoF, as well as a visualization of the trajectory methods used on a Hiwonder 5-DoF platform.
 
 ## Trajectory Generation - ```traj_gen.py```
 
-Implements classes for quintic polynomial and trapezoidal trajectory generation method. Plots example position, velocity, and acceleration graphs for a 2-DoF platform moving between 4 waypoints: [-30, 30], [0, 45], [30, 15], [50, -30]. The trajectory method is specified by the "method" variable.
+Implements classes for quintic polynomial and trapezoidal trajectory generation method. Plots example position, velocity, and acceleration graphs for a 2-DoF platform moving between 4 waypoints: [-30, 30], [0, 45], [30, 15], and [50, -30] degrees. The trajectory method is specified by the "method" variable.
 
 ## Visualization - ```hiwonder.py```
 
