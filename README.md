@@ -1,4 +1,4 @@
-# FunRobo Mini-Projects 1 & 2
+# FunRobo Individual HW2
 
 This repository contains the implementations for the Fundamentals of Robotics Individual Homework 2. The files cover quintic polynomial and trapezoidal trajectory generation methods for a robotic platform of unspecified DoF, as well as a visualization of the trajectory methods used on a Hiwonder 5-DoF platform.
 
